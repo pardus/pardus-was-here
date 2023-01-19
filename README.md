@@ -21,4 +21,4 @@ Example (Örneğin):
 
 &ensp;&ensp;&ensp;&ensp;Dede Korkut 27.12.2005 Kocaeli - Pardus 1.0 <br>&ensp;&ensp;&ensp;&ensp;Özgürlük için Pardus!<br>
 
-&ensp;&ensp;Commit Message must be "Name Surname was here."
+&ensp;&ensp;Commit Message must be "Name Surname was here"
