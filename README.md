@@ -20,5 +20,7 @@ Example (Örneğin):
 &ensp;&ensp;Content (İçerik):
 
 &ensp;&ensp;&ensp;&ensp;Dede Korkut 27.12.2005 Kocaeli - Pardus 1.0 <br>&ensp;&ensp;&ensp;&ensp;Özgürlük için Pardus!<br>
+<br>
+&ensp;&ensp;[EN] Commit Message must be "Name Surname was here"
 
-&ensp;&ensp;Commit Message must be "Name Surname was here"
+&ensp;&ensp;[TR] Commit "Name Surname was here" formatında olmalıdır.
