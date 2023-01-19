@@ -8,7 +8,8 @@
 [TR] memorybook klasöründe "YYYY-AA-GG-ad-soyad" formatında bir dosya oluşturunuz ve bu dosyanın içine bilgilerinizi aşağıdaki gibi yazınız.
 
 ```
-**Name Surname** Date City/Organization - Operating System <br>Optional Message<br>
+Name Surname Date City/Organization - Operating System
+Optional Message
 ```
 Example (Örneğin):
 
@@ -18,6 +19,6 @@ Example (Örneğin):
 
 &ensp;&ensp;Content (İçerik):
 
-&ensp;&ensp;&ensp;&ensp;*Dede Korkut** 27.12.2005 Kocaeli - Pardus 1.0 <br>&ensp;&ensp;&ensp;&ensp;Özgürlük için Pardus!<br>
+&ensp;&ensp;&ensp;&ensp;Dede Korkut 27.12.2005 Kocaeli - Pardus 1.0 <br>&ensp;&ensp;&ensp;&ensp;Özgürlük için Pardus!<br>
 
 &ensp;&ensp;Commit Message must be "Name Surname was here."
