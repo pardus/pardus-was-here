@@ -23,4 +23,4 @@ Example (Örneğin):
 <br>
 &ensp;&ensp;[EN] Commit Message must be "Name Surname was here"
 
-&ensp;&ensp;[TR] Commit "Name Surname was here" formatında olmalıdır.
+&ensp;&ensp;[TR] Commit mesajı, "Ad Soyad was here" formatında olmalıdır.
